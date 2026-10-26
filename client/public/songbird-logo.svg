@@ -1,0 +1,11 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="chx-logo-grad" x1="0" y1="0" x2="28" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#34d399"/>
+      <stop offset="0.55" stop-color="#10b981"/>
+      <stop offset="1" stop-color="#0d9488"/>
+    </linearGradient>
+  </defs>
+  <path d="M14 0C21.732 0 28 6.268 28 14C28 21.732 21.732 28 14 28C6.268 28 0 21.732 0 14C0 6.268 6.268 0 14 0Z" fill="url(#chx-logo-grad)"/>
+  <path d="M14 5.25C9.16877 5.25 5.25 9.16877 5.25 14C5.25 18.8312 9.16877 22.75 14 22.75C17.2217 22.75 20.0195 21.0144 21.5003 18.4375L17.1639 15.8865C16.4975 17.0257 15.3489 17.7826 14 17.7826C11.9361 17.7826 10.2174 16.0681 10.2174 14C10.2174 11.9319 11.9361 10.2174 14 10.2174C15.3489 10.2174 16.4975 10.9743 17.1639 12.1135L21.5003 9.5625C20.0195 6.98559 17.2217 5.25 14 5.25Z" fill="#ffffff"/>
+</svg>

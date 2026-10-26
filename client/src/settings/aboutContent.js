@@ -1,0 +1,34 @@
+export const ABOUT_CONTENT = {
+  copyright: {
+    ownerLabel: "@chopex-messenger",
+    ownerHref: "https://github.com/chopex-messenger",
+  },
+  socials: [
+    {
+      icon: "github",
+      href: "https://github.com/chopex-messenger/chopex",
+    },
+  ],
+  supportIntro:
+    "If CHOPEX is useful to you, you can support ongoing development with these wallets:",
+  donationLink: {
+    href: "https://nowpayments.io/donation/blackbull",
+    title: "NOWPAYMENTS",
+    description: "Donate with any currency",
+    buttonLabel: "Support",
+  },
+  wallets: [
+    {
+      label: "TRX",
+      address: "TPf1bEhipKpGkjo5N2Scj9nufNNh5TNrwX",
+    },
+    {
+      label: "BTC",
+      address: "bc1q9hupvcc39juhf0k7rgzn6phn8s8jez365kzmuj",
+    },
+    {
+      label: "TON",
+      address: "UQDzQ3xbWzKQvw8X8sWU82dksBeYqTHrT9sLzhBOyaESPjVy",
+    },
+  ],
+};
